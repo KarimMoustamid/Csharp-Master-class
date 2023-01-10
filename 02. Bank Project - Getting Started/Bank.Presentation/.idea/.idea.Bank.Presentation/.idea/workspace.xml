@@ -4,9 +4,7 @@
     <projectFile>Bank.Presentation/Bank.Presentation.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b12b40c-4abc-4745-a28f-3b242fa664aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Bank.Presentation/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2b12b40c-4abc-4745-a28f-3b242fa664aa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../Source/02. Bank Project - Getting Started/02. Creating Main Menu/HarshaBank.Presentation/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Source/02. Bank Project - Getting Started/03. Creating Customers and Accounts Menu/HarshaBank.Presentation/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -28,6 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   },
   "keyToStringList": {
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673280030038</updated>
-      <workItem from="1673280031246" duration="4473000" />
+      <workItem from="1673280031246" duration="4762000" />
     </task>
     <servers />
   </component>
